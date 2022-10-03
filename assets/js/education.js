@@ -10,28 +10,28 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "PYTHON 3",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.codecademy.com/data-science",
+    cardImage: "assets/images/education-page/codecademy-logo.png",
+    moocLink: "https://www.codecademy.com/catalog/language/python",
   },
   {
     title: "Computer Science",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    cardImage: "assets/images/education-page/codecademy-logo.png",
+    moocLink: "https://www.codecademy.com/catalog/subject/computer-science",
   },
   {
     title: "Bash/Shell",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    cardImage: "assets/images/education-page/codecademy-logo.png",
+    moocLink: "https://www.codecademy.com/catalog/language/bash",
   },
   {
     title: "Introduction to HTML 5",
     cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://www.codecademy.com/catalog/language/html-css",
   },
   {
     title: "Introduction to CSS 3",
     cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://www.codecademy.com/catalog/language/html-css",
   },
   {
     title: "Javascript",
@@ -65,7 +65,7 @@ const moocscards = [
   },
   {
     title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity_logo.png",
+    cardImage: "assets/images/education-page/codecademy-logo.png",
     moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
   },
 ];
