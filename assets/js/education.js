@@ -35,7 +35,7 @@ const moocscards = [
   },
   {
     title: "EC-Council's Certified Ethical Hacker",
-    cardImage: "assets/images/education-page/EC-council-logo.png",
+    cardImage: "assets/images/education-page/EC-Council-logo.png",
     moocLink: "",
   },
   {
