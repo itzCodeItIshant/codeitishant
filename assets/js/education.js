@@ -39,9 +39,9 @@ const moocscards = [
     moocLink: "",
   },
   {
-    title: "Bootstrap 4",
+    title: "Cisco Certified Network Associate",
     cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "",
   },
 ];
 
